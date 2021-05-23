@@ -17,7 +17,7 @@ I'm Akshat Sahu, IT undergrad at Manipal University Jaipur. I am a Photogapher, 
 
 <img src="https://komarev.com/ghpvc/?username=Akshat2634&label=Profile+Views">    
 
-<img src="https://github-readme-stats.vercel.app/api?username=Akshat2634&&show_icons=true&title_color=#263238&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=Akshat2634&show_icons=true&theme=tokyonight">
 
 
 
