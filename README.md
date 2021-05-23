@@ -10,7 +10,7 @@ I'm Akshat Sahu, IT undergrad at Manipal University Jaipur. I am a Photogapher, 
 
 - 🔭 I’m constantly trying to improve my skills.
 - 🌱 I’m currently learning Android App Development and Data Science.
-- 💻 I love doing Photography. You can check my portfolio here :  [Shutter_Illusions_](https://www.instagram.com/shutter_illusions_/) 
+- 📸 I love doing Photography. You can check my portfolio here :  [Shutter_Illusions_](https://www.instagram.com/shutter_illusions_/) 
 - 👯 I’m looking to collaborate on project ideas.
 - 💬 Ask me anything about Tech related stuff!
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/akshat-sahu-a914a134/) / [Instagram](https://www.instagram.com/iamakshatsahu/) 
