@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏻
 
 I'm Akshat Sahu, IT undergrad at Manipal University Jaipur. I am a Photogapher, an aspiring Android App Developer and a Data Science enthusiast. I have experience working with a range of different programming languages and frameworks and I am always looking for opportunities to work on something new.
 
