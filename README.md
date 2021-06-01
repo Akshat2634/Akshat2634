@@ -21,7 +21,7 @@ I love photography because of the artistic freedom that I get from it. It drives
 
 <img src="https://github-readme-stats.vercel.app/api?username=Akshat2634&show_icons=true&theme=tokyonight">
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat2634&layout=compact
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat2634&layout=compact">
 
 
 
