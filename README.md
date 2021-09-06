@@ -19,7 +19,7 @@ I love photography because of the artistic freedom that I get from it. It drives
 
 <img src="https://komarev.com/ghpvc/?username=Akshat2634&label=Profile+Views">    
 
-<img src="https://github-readme-stats.vercel.app/api?username=Akshat2634&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=Akshat2634&count_private=true&show_icons=true&theme=tokyonight">
 
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat2634&layout=compact&theme=tokyonight">
 
