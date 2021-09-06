@@ -6,7 +6,7 @@ I love photography because of the artistic freedom that I get from it. It drives
 
 • Content Creator (Photography / Cinematography) on Instagram  [Shutter_Illusions_](https://www.instagram.com/shutter_illusions_/) 
 
-• Skills - Python (Programming Language), Data Science , Machine Learning , C Language , Java , Android , Photography , Filmmaking , Editing , Adobe Lightroom , Adobe Premiere Pro.
+• Skills - Python (Programming Language), Data Science , Machine Learning , SQL , C/C++ , Java , Android , Photography , Filmmaking , Editing , Adobe Lightroom , Adobe Premiere Pro.
 
 ### Summary
 
