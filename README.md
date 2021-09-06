@@ -15,7 +15,7 @@ I love photography because of the artistic freedom that I get from it. It drives
 - 📸 I love doing Photography. You can check my portfolio here :  [Shutter_Illusions_](https://www.instagram.com/shutter_illusions_/) 
 - 👯 I’m looking to collaborate on project ideas.
 - 💬 Ask me anything about Tech and Photography related stuff!
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/akshat-sahu-a914a134/) / [Kaggle](https://www.kaggle.com/akshatsahu2634) / [Instagram](https://www.instagram.com/iamakshatsahu/) 
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/akshat-sahu-a914a134/) / [Kaggle](https://www.kaggle.com/akshatsahu2634) / [Hacker Rank](https://www.hackerrank.com/akshat2634?hr_r=1) / [Instagram](https://www.instagram.com/iamakshatsahu/) 
 
 <img src="https://komarev.com/ghpvc/?username=Akshat2634&label=Profile+Views">    
 
