@@ -11,7 +11,7 @@ I love photography because of the artistic freedom that I get from it. It drives
 ### Summary
 
 - 🔭 I’m constantly trying to improve my skills.
-- 🌱 I’m currently learning Android App Development and Data Science.
+- 🌱 I’m currently learning Data Science.
 - 📸 I love doing Photography. You can check my portfolio here :  [Shutter_Illusions_](https://www.instagram.com/shutter_illusions_/) 
 - 👯 I’m looking to collaborate on project ideas.
 - 💬 Ask me anything about Tech and Photography related stuff!
