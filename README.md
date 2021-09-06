@@ -8,7 +8,7 @@ I love photography because of the artistic freedom that I get from it. It drives
 
 • Skills - Python (Programming Language), Data Science , Machine Learning , SQL , C/C++ , Java , Android , Photography , Filmmaking , Editing , Adobe Lightroom , Adobe Premiere Pro.
 
-📄 [Resume](https://drive.google.com/file/d/1rlndK1ekQtLGS6DIjFrRKgDbskcPd49p/view?usp=sharing)
+📄 [Resume](https://drive.google.com/file/d/1pr_1oFAgu1VP7uaE2nlTO_zxJyAT7vkK/view?usp=sharing)
 
 ### Summary
 
