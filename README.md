@@ -19,6 +19,8 @@ I love photography because of the artistic freedom that I get from it. It drives
 - 💬 Ask me anything about Tech and Photography related stuff!
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/akshat-sahu-a914a134/) / [Kaggle](https://www.kaggle.com/akshatsahu2634) / [Hacker Rank](https://www.hackerrank.com/akshat2634?hr_r=1) / [Instagram](https://www.instagram.com/iamakshatsahu/) 
 
+⚙️  GitHub Analytics
+
 <img src="https://komarev.com/ghpvc/?username=Akshat2634&label=Profile+Views">    
 
 <img src="https://github-readme-stats.vercel.app/api?username=Akshat2634&count_private=true&show_icons=true&theme=dracula">
