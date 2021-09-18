@@ -29,6 +29,7 @@ I love photography because of the artistic freedom that I get from it. It drives
 </a>
 <a href="https://www.instagram.com/iamakshatsahu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamakshatsahu" height="30" width="40" /></a>  
 </p> <br>
+
 ### ⚙️ GitHub Analytics
 
 <img src="https://komarev.com/ghpvc/?username=Akshat2634&label=Profile+Views">    
