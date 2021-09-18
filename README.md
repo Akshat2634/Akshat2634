@@ -27,9 +27,9 @@ I love photography because of the artistic freedom that I get from it. It drives
 <a href="mailto:akshatsahu1@gmail.com" title="Mail me" target="_blank" onclick="window.open('your WS URL');">
 <img align="center" src="https://img.icons8.com/color/48/000000/gmail--v2.png" height="40" width="40"/>
 </a>
+<a href="https://www.instagram.com/iamakshatsahu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamakshatsahu" height="30" width="40" /></a>  
 </p>
 <br>
-
 ### ⚙️ GitHub Analytics
 
 <img src="https://komarev.com/ghpvc/?username=Akshat2634&label=Profile+Views">    
