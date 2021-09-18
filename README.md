@@ -17,7 +17,6 @@ I love photography because of the artistic freedom that I get from it. It drives
 - 📸 I love doing Photography. You can check my portfolio here :  [Shutter_Illusions_](https://www.instagram.com/shutter_illusions_/) 
 - 👯 I’m looking to collaborate on project ideas.
 - 💬 Ask me anything about Tech and Photography related stuff!
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/akshat-sahu-a914a134/) / [Kaggle](https://www.kaggle.com/akshatsahu2634) / [Hacker Rank](https://www.hackerrank.com/akshat2634?hr_r=1) / [Instagram](https://www.instagram.com/iamakshatsahu/) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,8 +24,7 @@ I love photography because of the artistic freedom that I get from it. It drives
 <a href="https://www.kaggle.com/akshatsahu2634" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akshatsahu2634" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/akshat2634" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akshat2634" height="30" width="40" /></a>
 <a href="mailto:akshatsahu1@gmail.com" title="Mail me" target="_blank" onclick="window.open('your WS URL');">
-<img align="center" src="https://img.icons8.com/color/48/000000/gmail--v2.png" height="40" width="40"/>
-</a>
+<img align="center" src="https://img.icons8.com/color/48/000000/gmail--v2.png" height="40" width="40"/></a>
 <a href="https://www.instagram.com/iamakshatsahu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamakshatsahu" height="30" width="40" /></a>  
 </p> <br>
 
