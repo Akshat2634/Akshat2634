@@ -20,7 +20,7 @@ I love photography because of the artistic freedom that I get from it. It drives
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/akshat2634/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" alt="akshat2634" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akshat2634/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshat2634" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/akshatsahu2634" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akshatsahu2634" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/akshat2634" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akshat2634" height="30" width="40" /></a>
 <a href="mailto:akshatsahu1@gmail.com" title="Mail me" target="_blank" onclick="window.open('your WS URL');">
