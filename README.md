@@ -36,6 +36,8 @@ I love photography because of the artistic freedom that I get from it. It drives
 
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat2634&layout=compact&theme=dracula">
 
+<p align="center"><src="https://github-readme-streak-stats.herokuapp.com/?user=Akshat2634&" alt="Akshat2634" /></p>
+
 
 
 
