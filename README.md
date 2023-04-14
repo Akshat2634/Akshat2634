@@ -22,7 +22,7 @@ I love photography because of the artistic freedom that I get from it. It drives
 <p align="left">
 <a href="https://www.linkedin.com/in/akshat2634/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" alt="akshat2634" height="40" width="40" /></a>
 <a href="https://www.kaggle.com/akshatsahu2634" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akshatsahu2634" height="30" width="30" /></a>
-<!-- <a href="https://www.hackerrank.com/akshat2634" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akshat2634" height="40" width="40" /></a> -->
+<a href="https://www.hackerrank.com/akshat2634" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akshat2634" height="40" width="40" /></a>
 <a href="mailto:akshatsahu1@gmail.com" title="Mail me" target="_blank" onclick="window.open('your WS URL');">
 <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" height="40" width="40"/></a>
 <a href="https://www.instagram.com/iamakshatsahu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamakshatsahu" height="40" width="40" /></a>  
@@ -33,9 +33,9 @@ I love photography because of the artistic freedom that I get from it. It drives
 <img src="https://komarev.com/ghpvc/?username=Akshat2634&label=Profile+Views">    
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Akshat2634&count_private=true&show_icons=true&theme=algolia">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akshat2634&count_private=true&show_icons=true&theme=algolia">
 &nbsp &nbsp &nbsp
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat2634&layout=compact&theme=algolia">
+<img height="180em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat2634&layout=compact&theme=algolia">
 </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Akshat2634&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
