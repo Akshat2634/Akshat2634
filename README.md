@@ -32,9 +32,11 @@ I love photography because of the artistic freedom that I get from it. It drives
 
 <img src="https://komarev.com/ghpvc/?username=Akshat2634&label=Profile+Views">    
 
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Akshat2634&count_private=true&show_icons=true&theme=algolia">
 
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat2634&layout=compact&theme=algolia">
+</p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Akshat2634&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
