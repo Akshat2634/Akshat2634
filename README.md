@@ -7,7 +7,7 @@ I love photography because of the artistic freedom that I get from it. It drives
 • Content Creator (Photography / Cinematography) on Instagram  [Shutter_Illusions_](https://www.instagram.com/shutter_illusions_/) 
 
 Skills: <br>
-  • Programming/Markup Languages: Java, C/C++, Python, SQL, HTML, TypeScript, CSS, JSON, XML
+  • Programming/Markup Languages: Java, C/C++, Python, SQL, HTML, TypeScript, JavaScript, CSS, JSON, XML
 
   • Frameworks and Libraries: Spring-boot, Hibernate, Maven, Angular, Pandas, Numpy, Matplotlib, Sklearn 
   
