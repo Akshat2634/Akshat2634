@@ -1,8 +1,8 @@
 ### Hi there 👋🏻
 
-I'm Akshat Sahu, Computer Science graduate at Stevens Institute of Technology. I am a Photographer, an aspiring Software Developer and a Data Science enthusiast. I have experience working with a range of different programming languages and frameworks/libraries and I am always looking for opportunities to work on something new.
+I'm Akshat Sahu, Computer Science graduate at Stevens Institute of Technology. I an aspiring Software Developer and a Data Science enthusiast. I have experience working with a range of different programming languages and frameworks/libraries and I am always looking for opportunities to work on something new.
 
-I love photography because of the artistic freedom that I get from it. It drives me to look at things from different angles, which requires having different perspectives and being open minded. I can take a picture of anything and make it look even better with the way I manage the settings on my camera or with post-processing. This makes me feel very good about myself. 
+ 
 
 • Content Creator (Photography / Cinematography) on Instagram  [Shutter_Illusions_](https://www.instagram.com/shutter_illusions_/) 
 
