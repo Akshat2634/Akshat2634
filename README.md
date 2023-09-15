@@ -2,10 +2,6 @@
 
 I'm Akshat Sahu, Computer Science graduate at Stevens Institute of Technology. I an aspiring Software Developer and a Data Science enthusiast. I have experience working with a range of different programming languages and frameworks/libraries and I am always looking for opportunities to work on something new.
 
- 
-
-• Content Creator (Photography / Cinematography) on Instagram  [Shutter_Illusions_](https://www.instagram.com/shutter_illusions_/) 
-
 Skills: <br>
   • Programming/Markup Languages: Java, C/C++, Python, SQL, HTML, TypeScript, JavaScript, CSS, JSON, XML
 
@@ -16,6 +12,9 @@ Skills: <br>
   • Databases and DevOps: MySQL, Git, GitHub, Jenkins
   
   • Tools - VsCode, Jupyter Notebook, Eclipse, Intellij IDEA
+  
+
+• Content Creator (Photography / Cinematography) on Instagram  [Shutter_Illusions_](https://www.instagram.com/shutter_illusions_/) 
 
 
 ### Summary
