@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="mediaqueries.css">
+    <link rel="icon" href="./assests/favicon-32x32.png">
+</head>
+
+<body>
+    <nav id="desktop-nav">
+        <div class="logo">Akshat Sahu</div>
+        <div>
+            <div>
+                <ul class="nav-links">
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#experience">Experience</a></li>
+                    <li><a href="#projects">Projects</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <nav id="hamburger-nav">
+        <div class="logo">Akshat Sahu</div>
+        <div class="hamburger-menu">
+            <div class="hamburger-icon" onclick="toggleMenu()">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+            <div class="menu-links">
+                <li><a href="#about" onclick="toggleMenu()">About</a></li>
+                <li><a href="#experience" onclick="toggleMenu()">Experience</a></li>
+                <li><a href="#projects" onclick="toggleMenu()">Projects</a></li>
+                <li><a href="#contact" onclick="toggleMenu()">Contact</a></li>
+            </div>
+        </div>
+    </nav>
+    <section id="profile">
+        <div class="section__pic-container">
+            <img src="./assests/profile-pic.png" alt="Akshat Sahu profile picture" />
+        </div>
+        <div class="section__text">
+            <p class="section__text__p1">Hello, I'm</p>
+            <h1 class="title">Akshat Sahu</h1>
+            <p class="section__text__p2">Software Developer</p>
+            <div class="btn-container">
+                <button class="btn btn-color-2" onclick="window.open('./assests/AkshatSahu_Resume.pdf')">
+                    Download Resume
+                </button>
+                <button class="btn btn-color-1" onclick="location.href='./#contact'">
+                    Contact Info
+                </button>
+            </div>
+            <div id="socials-container">
+                <img src="./assests/linkedin.png" alt="My LinkedIn profile" class="icon"
+                    onclick="location.href='https://linkedin.com/in/akshat2634'" />
+                <img src="./assests/github.png" alt="My Github profile" class="icon"
+                    onclick="location.href='https://github.com/akshat2634'" />
+            </div>
+        </div>
+    </section>
+    <section id="about">
+        <p class="section__text__p1">Get To Know More</p>
+        <h1 class="title">About Me</h1>
+        <div class="section-container">
+            <div class="section__pic-container">
+                <img src="./assests/about-pic.png" alt="Profile picture" class="about-pic" />
+            </div>
+            <div class="about-details-container">
+                <div class="about-containers">
+                    <div class="details-container">
+                        <img src="./assests/experience.png" alt="Experience icon" class="icon" />
+                        <h3>Experience</h3>
+                        <p>6+ Months <br />Software Development</p>
+                    </div>
+                    <div class="details-container">
+                        <img src="./assests/education.png" alt="Education icon" class="icon" />
+                        <h3>Education</h3>
+                        <p>
+                            <strong>Stevens Institute of Technology</strong> <br />
+                            <em>MS (Master of Science), Computer Science</em><br />
+                            [2023-2025]
+                            <br />
+                            <br />
+                            <strong>Manipal University Jaipur</strong><br />
+                            <em>BE (Bachelor of Engineering), Information Technology</em>
+                            <br /> [2019 - 2023]
+                        </p>
+                    </div>
+                </div>
+                <div class="text-container">
+                    <p class="description">
+                        Hello, I'm Akshat Sahu, a Computer Science Master's student at Stevens Institute of Technology.
+                        With hands-on experience
+                        in full-stack development, specializing in Java-based frameworks and Restful APIs like Spring
+                        Boot and Hibernate, I'm
+                        also well-versed in front-end technologies, particularly Angular. Beyond software development,
+                        my passion for data
+                        science is reflected in a published research paper. Actively seeking internships and analyst
+                        roles for Summer 2024, I
+                        bring a diverse skill set, a strong desire to learn, and a commitment to making impactful
+                        contributions to any project
+                        or team.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <img src="./assests/arrow.png" alt="Arrow icon" class="icon arrow" onclick="location.href='./#skills'" />
+    </section>
+    <section id="skills">
+        <p class="section__text__p1">Explore My</p>
+        <h1 class="title">Skills</h1>
+        <div class="skills-container">
+            <!-- Programming/Markup Languages -->
+            <div class="details-container">
+                <h2 class="experience-sub-title">Programming/Markup Languages</h2>
+                <p class="skills-list">
+                    Java, C/C++, Python, SQL, Natural Language Processing (NLP), Prompt Engineering, HTML, JSP,
+                    Servlets,
+                    TypeScript, JavaScript, CSS, JSON, XML
+                </p>
+            </div>
+
+            <!-- Frameworks and Libraries -->
+            <div class="details-container">
+                <h2 class="experience-sub-title">Frameworks and Libraries</h2>
+                <p class="skills-list">
+                    Springboot, Spring MVC, RESTful APIs, Hibernate, Maven, Angular, Streamlit, Pandas, Numpy,
+                    Matplotlib, Sklearn
+                </p>
+            </div>
+
+            <!-- Databases and DevOps -->
+            <div class="details-container">
+                <h2 class="experience-sub-title">Databases and DevOps</h2>
+                <p class="skills-list">
+                    MySQL, Git, GitHub, Jenkins
+                </p>
+            </div>
+        </div>
+        <img src="./assests/arrow.png" alt="Arrow icon" class="icon arrow" onclick="location.href='./#experience'" />
+    </section>
+    <section id="experience">
+        <p class="section__text__p1">My</p>
+        <h1 class="title"> Work Experience</h1>
+        <div class="experience-details-container">
+            <div class="details-container">
+                <img src="./assests/briefcase.png" alt="Experience icon" class="icon" />
+                <h3>Nagarro</h3>
+                <p>Software Development Intern</p>
+                <p>Duration: March 2023 - July 2023</p>
+                <p>Technologies: Angular (Frontend),
+                    Java Spring Boot (Backend),
+                    Hibernate (Database Integration),
+                    MySQL (Database)</p>
+                <p>Roles and Responsibilities:</p>
+                <ul class="workex">
+                    <li>Engineered the Product Community Website, providing users with the ability to register, browse
+                        products, post reviews,
+                        and request reviews for diverse products, cultivating a dynamic and engaged user community.</li>
+                    <li>Developed backend RESTful APIs with Java Spring Boot, enabling user authentication,
+                        registration, product search, and
+                        review posting.</li>
+                    <li>Integrated Hibernate with MySQL for efficient data storage and retrieval, optimizing user
+                        information and product
+                        details
+                        management.</li>
+                    <li>Created interactive frontend interfaces using Angular, enhancing user engagement and overall
+                        experience on the Product
+                        Community Website.</li>
+                </ul>
+            </div>
+        </div>
+        <img src="./assests/arrow.png" alt="Arrow icon" class="icon arrow" onclick="location.href='./#projects'" />
+    </section>
+    <section id="projects">
+        <p class="section__text__p1">
+            Browse My Recent
+        </p>
+        <h1 class="title">Projects</h1>
+        <div class="experience-details-container">
+            <div class="about-containers">
+                <div class="details-container color-container">
+                    <div class="article-container">
+                        <img src="./assests/project-1.png" alt="Project 1" class="project-img" />
+
+                    </div>
+                    <h2 class="experience-sub-title project-title">
+                        Taste Tech.Ai
+                    </h2>
+                    <div class="btn-container">
+                        <button class="btn btn-color-2 project-btn"
+                            onclick="location.href='https://github.com/Akshat2634/Taste-Tech.AI'">
+                            Github
+                        </button>
+                        <!-- <button class="btn btn-color-2 project-btn"
+                        onclick="location.href='https://https://github.com/Akshat2634/Taste-Tech.AI'">
+                        Live Demo
+                    </button> -->
+                    </div>
+                </div>
+                <div class="details-container color-container">
+                    <div class="article-container">
+                        <img src="./assests/project-2.png" alt="Project 2" class="project-img" />
+
+                    </div>
+                    <h2 class="experience-sub-title project-title">
+                        Fake News Detection Using Machine Learning
+                    </h2>
+                    <div class="btn-container">
+                        <button class="btn btn-color-2 project-btn"
+                            onclick="location.href='https://github.com/Akshat2634/Data-Science-Projects/tree/main/Fake_News_Detection_Using_Machine_Learning'">
+                            Github
+                        </button>
+                        <!-- <button class="btn btn-color-2 project-btn"
+                        onclick="location.href='https://https://github.com/Akshat2634/Taste-Tech.AI'">
+                        Live Demo
+                    </button> -->
+                    </div>
+                </div>
+                <div class="details-container color-container">
+                    <div class="article-container">
+                        <img src="./assests/project-3.png" alt="Project 3" class="project-img" />
+
+                    </div>
+                    <h2 class="experience-sub-title project-title">
+                        Product Community Website
+                    </h2>
+                    <div class="btn-container">
+                        <button class="btn btn-color-2 project-btn"
+                            onclick="location.href='https://github.com/Akshat2634/ProductComminityWebsite'">
+                            Github
+                        </button>
+                        <!-- <button class="btn btn-color-2 project-btn"
+                        onclick="location.href='https://https://github.com/Akshat2634/Taste-Tech.AI'">
+                        Live Demo
+                    </button> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+        <img src="./assests/arrow.png" alt="Arrow icon" class="icon arrow" onclick="location.href='./#contact'" />
+    </section>
+    <section id="contact">
+        <p class="section__text__p1">Get in Touch</p>
+        <h1 class="title">Contact Me</h1>
+        <div class="contact-info-upper-container">
+            <div class="contact-info-container">
+                <img src="./assests/email.png " alt="Email Icon" class="icon contact-icon email-icon" />
+                <p><a href="mailto:akshatsahu1@gmail.com">akshatsahu1@gmail.com</a></p>
+            </div>
+            <div class="contact-info-container">
+                <img src="./assests/linkedin.png " alt="LinkedIn Icon" class="icon contact-icon" />
+                <p><a href="https://www.linkedin.com/in/akshat2634/">Akshat Sahu</a></p>
+            </div>
+        </div>
+
+    </section>
+    <footer>
+        <nav>
+            <div class="nav-links-container">
+                <ul class="nav-links">
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#experience">Experience</a></li>
+                    <li><a href="#projects">Projects</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </div>
+        </nav>
+        <p>Copyright &#169; 2024 Akshat Sahu, All Rights Reserved.</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+
+</html>
