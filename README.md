@@ -4,7 +4,7 @@ I'm Akshat Sahu, Computer Science graduate at Stevens Institute of Technology. I
 
 ### Portfolio Website
 
-Check out my portfolio on [Akshat's Portfolio Website](https://akshat2634.github.io).
+Check out my portfolio on [Akshat's Portfolio Website](https://akshat2634.github.io)
 
 
 
