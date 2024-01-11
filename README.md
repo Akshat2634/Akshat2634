@@ -2,6 +2,12 @@
 
 I'm Akshat Sahu, Computer Science graduate at Stevens Institute of Technology. I an aspiring Software Developer and a Data Science enthusiast. I have experience working with a range of different programming languages and frameworks/libraries and I am always looking for opportunities to work on something new.
 
+### Portfolio Website
+
+Check out my portfolio on [Akshat's Portfolio Website](https://akshat2634.github.io).
+
+
+
 Skills: <br>
   • Programming/Markup Languages: Java, C/C++, Python, SQL, HTML, TypeScript, JavaScript, CSS, JSON, XML
 
