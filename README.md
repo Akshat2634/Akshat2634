@@ -8,7 +8,7 @@ Check out my portfolio on [Akshat's Portfolio Website](https://akshat2634.github
 
 
 
-Skills: <br>
+### Skills: <br>
   • Programming/Markup Languages: Java, C/C++, Python, SQL, HTML, TypeScript, JavaScript, CSS, JSON, XML
 
   • Frameworks and Libraries: Spring-boot, Hibernate, Maven, Angular, Pandas, Numpy, Matplotlib, Sklearn 
