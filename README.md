@@ -12,6 +12,8 @@ Check out my portfolio on [Akshat's Portfolio Website](https://akshat2634.github
   • Programming/Markup Languages: Java, C/C++, Python, SQL, HTML, TypeScript, JavaScript, CSS, JSON, XML
 
   • Frameworks and Libraries: Spring-boot, Hibernate, Maven, Angular, Pandas, Numpy, Matplotlib, Sklearn 
+
+  • Generative AI and Prompt Engineering
   
   • APIs and API Testing: RESTful APIs, Postman 
   
@@ -30,6 +32,8 @@ Check out my portfolio on [Akshat's Portfolio Website](https://akshat2634.github
 - 📸 I love doing Photography. You can check my portfolio here :  [Shutter_Illusions_](https://www.instagram.com/shutter_illusions_/) 
 - 👯 I’m looking to collaborate on project ideas.
 - 💬 Ask me anything about Tech and Photography related stuff!
+
+Let's connect and create something amazing together! 🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
