@@ -32,8 +32,10 @@ Check out my portfolio on [Akshat's Portfolio Website](https://akshat2634.github
 - 📸 I love doing Photography. You can check my portfolio here :  [Shutter_Illusions_](https://www.instagram.com/shutter_illusions_/) 
 - 👯 I’m looking to collaborate on project ideas.
 - 💬 Ask me anything about Tech and Photography related stuff!
+  
 
 Let's connect and create something amazing together! 🚀
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
