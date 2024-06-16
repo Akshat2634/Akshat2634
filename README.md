@@ -9,18 +9,14 @@ Check out my portfolio on [Akshat's Portfolio Website](https://akshat2634.github
 
 
 ### Skills: <br>
-  • Programming/Markup Languages: Java, C/C++, Python, SQL, HTML, TypeScript, JavaScript, CSS, JSON, XML
+  • Programming/Markup Languages: Prompt Engineering, Python, JavaScript, TypeScript, Java, C/C++, NLP, SQL, HTML, JSP, Servlets, CSS, JSON, XML
 
-  • Frameworks and Libraries: Spring-boot, Hibernate, Maven, Angular, Pandas, Numpy, Matplotlib, Sklearn 
+  • Frameworks and Libraries: RAG (Retrieval-Augmented Generation), LangChain, LlamaIndex, FastAPI, RESTful APIs, Node.js, Express.js, Next.js, Spring Boot, Spring MVC, Angular, Streamlit 
 
-  • Generative AI and Prompt Engineering
+  • LLM Models: OpenAI (e.g. GPT-4, GPT-3.5), Claude (by Anthropic), Gemini (by Google)
   
-  • APIs and API Testing: RESTful APIs, Postman 
-  
-  • Databases and DevOps: MySQL, Git, GitHub, Jenkins
-  
-  • Tools - VsCode, Jupyter Notebook, Eclipse, Intellij IDEA
-  
+  • Databases and DevOps: AWS (Amazon Web Services), Supabase, MySQL, MongoDB, Git, GitHub, Jenkins 
+
 
 • Content Creator (Photography / Cinematography) on Instagram  [Shutter_Illusions_](https://www.instagram.com/shutter_illusions_/) 
 
@@ -28,7 +24,7 @@ Check out my portfolio on [Akshat's Portfolio Website](https://akshat2634.github
 ### Summary
 
 - 🔭 I’m constantly trying to improve my skills.
-- 🌱 I’m currently learning about Generative Ai.
+- 🌱 I’m currently learning about Generative AI.
 - 📸 I love doing Photography. You can check my portfolio here :  [Shutter_Illusions_](https://www.instagram.com/shutter_illusions_/) 
 - 👯 I’m looking to collaborate on project ideas.
 - 💬 Ask me anything about Tech and Photography related stuff!
