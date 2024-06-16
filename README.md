@@ -1,6 +1,6 @@
 ### Hi there 👋🏻
 
-I'm Akshat Sahu, Computer Science graduate at Stevens Institute of Technology. I am aspiring Software Developer and a Data Science enthusiast. I have experience working with a range of different programming languages and frameworks/libraries and I am always looking for opportunities to work on something new.
+I'm Akshat Sahu, a Computer Science graduate student at Stevens Institute of Technology. I'm an aspiring AI/ML Engineer and Software Developer with experience as an AI Engineering Intern at Future Path AI and a Software Engineering Intern at Nagarro. I have a strong foundation in Python, Java, JavaScript, and frameworks like FastAPI, Spring Boot, and Angular. My expertise includes Prompt Engineering, RAG, and working with LLMs such as GPT-4. I've developed projects in AI-assisted issue tracking, pet management, and document summarization. I'm always looking for opportunities to work on innovative projects and expand my skills.
 
 ### Portfolio Website
 
