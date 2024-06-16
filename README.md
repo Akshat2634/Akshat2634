@@ -1,6 +1,6 @@
 ### Hi there 👋🏻
 
-I'm Akshat Sahu, Computer Science graduate at Stevens Institute of Technology. I an aspiring Software Developer and a Data Science enthusiast. I have experience working with a range of different programming languages and frameworks/libraries and I am always looking for opportunities to work on something new.
+I'm Akshat Sahu, Computer Science graduate at Stevens Institute of Technology. I am aspiring Software Developer and a Data Science enthusiast. I have experience working with a range of different programming languages and frameworks/libraries and I am always looking for opportunities to work on something new.
 
 ### Portfolio Website
 
