@@ -7,6 +7,10 @@ I'm Akshat Sahu, a Computer Science graduate student at Stevens Institute of Tec
 Check out my portfolio on [Akshat's Portfolio Website](https://akshat2634.github.io)
 
 
+### 🏢 My Work  
+- **Personal GitHub:** [Akshat2634](https://github.com/Akshat2634)  
+- **Company GitHub:** [Akshatai](https://github.com/Akshatai)  
+
 
 ### Skills: <br>
   • Programming/Markup Languages: Prompt Engineering, Python, JavaScript, TypeScript, Java, C/C++, NLP, SQL, HTML, JSP, Servlets, CSS, JSON, XML
@@ -43,10 +47,6 @@ Let's connect and create something amazing together! 🚀
 <a href="https://www.instagram.com/iamakshatsahu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamakshatsahu" height="40" width="40" /></a>  
 </p> <br>
 
-
-### 🏢 My Work  
-- **Personal GitHub:** [Akshat2634](https://github.com/Akshat2634)  
-- **Company GitHub:** [Akshatai](https://github.com/Akshatai)  
 
 ### ⚙️ GitHub Analytics
 
