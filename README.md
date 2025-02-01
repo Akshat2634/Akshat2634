@@ -43,18 +43,34 @@ Let's connect and create something amazing together! 🚀
 <a href="https://www.instagram.com/iamakshatsahu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamakshatsahu" height="40" width="40" /></a>  
 </p> <br>
 
+
+### 🏢 My Work  
+- **Personal GitHub:** [Akshat2634](https://github.com/Akshat2634)  
+- **Company GitHub:** [Akshatai](https://github.com/Akshatai)  
+
 ### ⚙️ GitHub Analytics
 
 <img src="https://komarev.com/ghpvc/?username=Akshat2634&label=Profile+Views">    
 
+#### 📊 Personal GitHub Stats  
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akshat2634&count_private=true&show_icons=true&theme=algolia">
 &nbsp &nbsp &nbsp
-<img height="180em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat2634&layout=compact&theme=algolia">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat2634&layout=compact&theme=algolia">
 </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Akshat2634&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+---
+
+#### 📊 Company GitHub Stats (`Akshatai`)  
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akshatai&count_private=true&show_icons=true&theme=algolia">
+&nbsp &nbsp &nbsp
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshatai&layout=compact&theme=algolia">
+</p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Akshatai&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 
