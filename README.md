@@ -9,7 +9,7 @@ Check out my portfolio on [Akshat's Portfolio Website](https://akshat2634.github
 
 ### 🏢 My Work  
 - **Personal GitHub:** [Akshat2634](https://github.com/Akshat2634)  
-- **Company GitHub:** [Akshatai](https://github.com/Akshatai)  
+- **Professional GitHub:** [Akshatai](https://github.com/Akshatai)  
 
 
 ### Skills: <br>
