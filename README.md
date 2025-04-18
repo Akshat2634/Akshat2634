@@ -4,7 +4,7 @@ I'm Akshat Sahu, a Computer Science graduate student at Stevens Institute of Tec
 
 ### Portfolio Website
 
-Check out my portfolio on [Akshat's Portfolio Website](akshatsahuportfolio.vercel.app)
+Check out my portfolio on [Akshat's Portfolio Website](https://akshatsahuportfolio.vercel.app)
 
 
 ### 🏢 My Work  
