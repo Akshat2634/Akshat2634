@@ -215,7 +215,8 @@ class AkshatSahu:
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Akshat2634&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akshat2634&theme=tokyonight" alt="GitHub stats overview" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akshat2634&theme=tokyonight&utcOffset=-7" alt="When I code (productive time)" />
 </p>
 
 <p align="center">
@@ -224,7 +225,8 @@ class AkshatSahu:
 
 ---
 
-<!-- ====================== CONTRIBUTION ART ====================== -->
+<!-- ====================== CONTRIBUTION ART — hidden per request; uncomment this whole block to restore ======================
+
 ## 🐍 Contribution Snake & 3D Calendar
 
 <picture>
@@ -243,7 +245,7 @@ class AkshatSahu:
 
 > _The snake & 3D calendar regenerate automatically via GitHub Actions. They'll appear after the first workflow run._
 
----
+====================== END CONTRIBUTION ART ====================== -->
 
 <!-- ====================== WAKATIME ====================== -->
 ## ⏱️ Weekly Coding Breakdown
