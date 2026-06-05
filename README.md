@@ -249,7 +249,13 @@ class AkshatSahu:
 ## ⏱️ Weekly Coding Breakdown
 
 <!--START_SECTION:waka-->
-_Powering up… WakaTime stats will populate here once the workflow runs._
+
+```txt
+From: 28 May 2026 - To: 04 June 2026
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ---
