@@ -1,0 +1,36 @@
+name: GitHub Profile 3D Contrib
+
+# Generates the 3D isometric contribution calendar SVGs into the
+# `profile-3d-contrib/` directory on the main branch.
+# Docs: https://github.com/yoshi389111/github-profile-3d-contrib
+
+on:
+  schedule:
+    # Re-generate daily at 18:00 UTC
+    - cron: "0 18 * * *"
+  # Run manually from the Actions tab (use this for the first generation)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-3d-contrib
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate 3D contribution graphs
+        uses: yoshi389111/github-profile-3d-contrib@v0.9.2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A profile-3d-contrib
+          git commit -m "chore: regenerate 3d contribution graphs" || echo "Nothing to commit"
+          git push

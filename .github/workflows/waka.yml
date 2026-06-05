@@ -1,0 +1,36 @@
+name: WakaTime Coding Stats
+
+# Updates the WakaTime "weekly coding breakdown" between the
+# <!--START_SECTION:waka--> and <!--END_SECTION:waka--> markers in README.md.
+#
+# SETUP (one-time):
+#   1. Create a free account at https://wakatime.com and install the WakaTime
+#      plugin in your editor (VS Code / JetBrains / etc.).
+#   2. In WakaTime > Settings, enable BOTH "Display code time publicly" and
+#      "Display languages, editors, os, categories publicly".
+#   3. Copy your WakaTime API key (Settings > Account > API Key).
+#   4. Add it to this repo: Settings > Secrets and variables > Actions >
+#      New repository secret, named  WAKATIME_API_KEY.
+# Docs: https://github.com/athul/waka-readme
+
+on:
+  schedule:
+    # Refresh weekly, Monday 01:00 UTC
+    - cron: "0 1 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          COMMIT_MESSAGE: "chore: update WakaTime coding stats"
+          SHOW_TITLE: "true"
+          BLOCKS: "░▒▓█"
+          TIME_RANGE: "last_7_days"
