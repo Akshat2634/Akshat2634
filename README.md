@@ -253,13 +253,13 @@ class AkshatSahu:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 July 2026 - To: 08 July 2026
+From: 02 July 2026 - To: 09 July 2026
 
-Python       10 hrs 41 mins        █████████▓░░░░░░░░░░░░░░░   38.54 %
-YAML         4 hrs 58 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.95 %
-Markdown     3 hrs 44 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.48 %
-JavaScript   3 hrs 19 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 %
-Other        1 hr 25 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
+Python       9 hrs                 ████████░░░░░░░░░░░░░░░░░   32.07 %
+YAML         6 hrs 20 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.59 %
+Markdown     4 hrs 8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.72 %
+JavaScript   2 hrs 50 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
+Other        2 hrs 10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
 ```
 
 <!--END_SECTION:waka-->
